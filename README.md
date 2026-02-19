@@ -1,4 +1,5 @@
 # Customer-Segmentation-Analysis
+
 GOALS
 1.data exploration
 2.data cleaning
